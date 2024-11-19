@@ -1,0 +1,13 @@
+D:\my creations\Bat 2 Exe Converter\bin\Debug\Bat 2 Exe Converter.exe.config
+D:\my creations\Bat 2 Exe Converter\bin\Debug\Bat 2 Exe Converter.exe
+D:\my creations\Bat 2 Exe Converter\bin\Debug\Bat 2 Exe Converter.pdb
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.csproj.AssemblyReference.cache
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.csproj.SuggestedBindingRedirects.cache
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat_2_Exe_Converter.Form1.resources
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat_2_Exe_Converter.Properties.Resources.resources
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.csproj.GenerateResource.cache
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.csproj.CoreCompileInputs.cache
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.exe
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat 2 Exe Converter.pdb
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat_2_Exe_Converter.About.resources
+D:\my creations\Bat 2 Exe Converter\obj\Debug\Bat_2_Exe_Converter.Editor.resources
