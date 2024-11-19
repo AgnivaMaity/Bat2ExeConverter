@@ -18,7 +18,7 @@ namespace Bat_2_Exe_Converter
         private void Editor_Load(object sender, EventArgs e)
         {
             richTextBox1.SelectionFont = new Font(richTextBox1.SelectionFont.FontFamily, 11.0F);
-            richTextBox1.AppendText("::This is a example batch file.\n@echo off\ntitle hello!\necho yo\npause");
+            richTextBox1.AppendText("::This is an example batch file.\n@echo off\ntitle hello!\necho yo\npause");
         }
 
         private void button1_Click(object sender, EventArgs e)
